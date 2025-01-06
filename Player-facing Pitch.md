@@ -4,7 +4,7 @@ tags:
 obsidianEditingMode: live
 ---
 
-Testing, one-two. Testing, three-four.
+This was written in Obsidian. I'm going to just press the "push" button now.
 
 ## A Note on Looking Things Up
 While I encourage you to read up on the setting of Eberron, please be careful about spoiling yourself on any of the many, many GM secrets strewn throughout exposition on it. ***In particular, please do not use the Eberron wiki on fandom.com.*** It is particularly liberal with including GM info in its articles, and I do not want you to spoil any major reveals or the like for yourself before the game even begins. If you intentionally seek out information on any of the factions or NPCs you encounter in-game in order to learn information that ought to be secret from your character, you may consider yourself banned from any of my tables for life.
