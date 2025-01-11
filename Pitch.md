@@ -56,15 +56,17 @@ The playtest [Runesmith](https://app.demiplane.com/nexus/pathfinder2e/classes/ru
 
 Devout champions of the Blood of Vol (or potentially other classes) could be a Bone Knight, a warrior who has been fused with their armor. Their armor, in turn, has been decorated with the bones of their enemies. The bone armor is supposed to give them better powers to control undead, and they served as Karrnathi generals during the Last War. Nowadays they have varying allegiances.
 
+See more ideas on how to fit various classes into Eberron in [this Reddit post](https://www.reddit.com/r/Pathfinder2e/comments/1d2y4zw/running_pathfinder2e_in_eberron_a_short_guide_to/). "Not Recommended" isn't "banned," if you have a good character concept to go along with any of those classes--a Cleric of the Silver Flame with the [splinter faith](https://2e.aonprd.com/Feats.aspx?ID=1173) feat could be interesting, for example.
+
 | Status               | Classes                                                                                              |
 | -------------------- | ---------------------------------------------------------------------------------------------------- |
 | Strongly Recommended | Undead subclasses, Investigator                                                                      |
 | Recommended          | Cleric (esp. Blood of Vol), Champion, Rogue (especially Avenger and Mastermind), Ranger (Vindicator) |
 | Appropriate          | Other common classes (except below), Runesmith (Playtest)                                            |
-| Not Recommended      | Alchemist, Cleric (Silver Flame), Druid, Gunslinger, Inventor, Animist, Exemplar                     |
+| Not Recommended      | Cleric (Silver Flame), Druid, Inventor, Animist, Exemplar                                            |
 
 ## Background Info & Further Reading
-See the "Eberronicon" in the Google Drive folder, although note that *your character almost certainly does not know all of the infomration in the Eberronicon.* They certainly know information relevant to themselves, but they might not really have much of an idea of what the Shadow Marches are like other than "loose tribes of Humans and Orcs."
+See the "Eberronicon" in this folder, although note that *your character almost certainly does not know all of the infomration in the Eberronicon.* They certainly know information relevant to themselves, but they might not really have much of an idea of what the Shadow Marches are like other than "loose tribes of Humans and Orcs."
 
 
 
