@@ -22,7 +22,7 @@
 
 ~950 YK: House Cannith perfects the Warforged, sentient machines to fight in the Last War.
 
-~975 YK: The knight orders of Karrnath are disbanded. Most comply, but the Order of the Emerald claw fractures into terrorist cells.
+~975 YK: The seeker knight orders of Karrnath are disbanded. The Order of the Onyx Skull comply, but the Order of the Emerald claw fractures into terrorist cells.
 
 ~990 YK: First elemental airships go into service for House Lyrandar. 
 
