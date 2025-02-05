@@ -63,7 +63,7 @@ Atur will be one of the few places your characters are accepted, and one of the 
 Your character, in keeping with our theme, should be an undead, a seeker, both, or for some other reason the sort of general outcast that would fit in with the party. No matter what class you play, consider your character's religion, their philosophy, their convictions, and their bonds to the life they live.
 
 ## Characters
-We will be using the [Pathfinder's Guide to Eberron](https://scribe.pf2.tools/v/2qF7WjsY-pathfinders-guide-to-eberron) to play an Eberron game in Pathfinder. The Pathfinder's guide has not been updated for the remaster, so there are still some things like alignment that will need to be adapted on a case-by-case basis. If you have any questions at all, ask me.
+We will be using the [Pathfinder's Guide to Eberron](https://scribe.pf2.tools/v/2qF7WjsY-pathfinders-guide-to-eberron) to play an Eberron game in Pathfinder. The Pathfinder's guide has not been updated for the remaster, so there are still some things like alignment that will need to be adapted on a case-by-case basis. If you have any questions at all, ask me. We will begin play at **level 4**.
 
 We will be playing with three custom character creation rules. The first is [free archetype](https://2e.aonprd.com/Rules.aspx?ID=2751), which gives you an additional feat at every even level that you can only use on archetype feats. Normally, you would have to forgo a class feat to take an archetype feat, but free archetype renders this unnecessary. However, there is the restriction that *your free archetype must be on theme.* This obviously includes any of the undead archetypes (so that you can make an undead character)--anything else, ask me. If you'd like to play a dragonmarked character, the Dragonmarked Scion archetype could work well, depending on the dragonmark. 
 
@@ -104,7 +104,7 @@ Some class archetypes deserve special mention for appropriateness: the [Avenger]
 
 The playtest [Runesmith](https://app.demiplane.com/nexus/pathfinder2e/classes/runesmith-playtest?srsltid=AfmBOooofiEdIAGJ7xvjm8K3My5kpRF2Nw3ymHzAasZQpD4g6QeDs7JU) could work as an Artificer analogue, if you're particularly interested. It will require some reflavoring. The Necromancer *will* work beautifully--Alec has had dibs on it for a while now. 
 
-The Pathfinder's Guide has a Gunslinger flavoring that relies on Siberys powder that I... don't like, and feels like it just introduces guns to the game. I would much prefer to reflavor a gunslinger as a wandslinger, who reloads by swapping to another wand or recharging it with a short cantrip. The Pathfinder's Guide also has the *Wandslinger* class archetype, which looks... really, really bad to me, and is also super super confusing. If you *really* want to use that, maybe we can go for it, but I suspect you'd be better off reflavoring a normal Gunslinger with a casting archetype.
+The Pathfinder's Guide has a reflavoring for the Gunslinger that relies on Siberys powder that I... don't like, and feels like it just introduces guns to the game. I would much prefer to reflavor a gunslinger as a wandslinger, who reloads by swapping to another wand or recharging it with a short cantrip. The Pathfinder's Guide also has the *Wandslinger* class archetype, which looks... really, really bad to me, and is also super super confusing. If you *really* want to use that, maybe we can go for it, but I suspect you'd be better off reflavoring a normal Gunslinger with a casting archetype.
 
 Devout champions of the Blood of Vol (or potentially other classes) could be Bone Knights, a warrior who has been fused with their armor. Their armor, in turn, has been decorated with the bones of their enemies. The bone armor is supposed to give them better powers to control undead, and they served as Karrnathi generals during the Last War. Nowadays they have varying allegiances. Perhaps you even served with the Order of the Onyx Skull, one of the former seeker knight orders of Karrnath. How do you feel about the country you swore to protect betraying you?
 
@@ -130,6 +130,25 @@ I'll reiterate here that the Dragonmarked Scion archetype from the Pathfinder's 
 
 Look through all the archetypes [here](https://2e.aonprd.com/Archetypes.aspx).
 
+### Arcs
+Inspired by other games I'm playing now (*Slugblaster* and *Old Gods of Appalachia*), I'm going to ask you to design an *arc* for your character. The arc should take the form of a vague series of beats that drives your character towards a certain goal. For instance, if your character's arc was finding and bringing to justice the person who killed you, your arc *might* look like this:
+- Introductory scene: Flashback to my death, explain my goal to the party
+- Step: Find out who I was in life
+- Step: Find out who killed me
+- Step: Find out *why* they killed me
+- Step: Find out where they are
+- Resolution: Confront them, and either kill them or spare them
+- Conclusion: Reflecting on whether I feel any better after this whole thing
+
+Try to keep your arcs this length or shorter, given how little time we have in the semester. Each time you accomplish one of the scenes in your arc, the party will gain a nice little package of bonus xp (I haven't decided how much--somewhere in the 200-300 xp range, probably, depending how much xp you get from other sources. Introductions and conclusions will give the least, steps in the middle, and the resolution the most).
+
+I'm hoping that these player arcs can drive a lot of the action, hence why I'm incentivizing you to accomplish them. At first I figured only the person whose arc it was would get xp, but I think for steps and resolution at least the whole party will get xp so that y'all are encouraged to support each other and be a fan of each other's characters. That said, don't be [that guy](https://www.youtube.com/shorts/ozVtq4urP3k).
+
+I'd advise you to keep these steps vague--I don't want you to feel like you know exactly what will happen to your character, only what the main beats of the story will be like if you're successful. If something big happens, you can always edit your arc later (with my permission).
+
+Given how short this semester is, I think it would make sense to start your characters with some sort of direction towards accomplishing their arcs. Maybe in the example above you begin the game by waking up in the Vault of the Dead, only hazy memories of your past, clutching a set of Thranish dog tags that have had the name long since weathered off, leaving only the letters "R____ Sl___". Something like that. I'll determine your "starting clues" once you've decided on your arc.
+
+Arcs can be anything. Maybe you want to re-found the Onyx Skull as an organization for good. Maybe you want to convince the Church of the Silver Flame that not all undead are bad, to ease tensions between Karrnath and Thrane. Maybe you want to figure out who's at the head of the Order of the Emerald Claw. Maybe you want to go pick some rare herbs. Idk. They will obviously be better if they somehow involve the themes of religion, politics, undeath, and acts of heroism in the face of systems that despise you, but the best arc will be one that you will love playing through the whole semester.
 
 ## Background Info & Further Reading
 See the "Eberronicon" in this folder, although note that *your character almost certainly does not know all of the information in the Eberronicon.* They certainly know information relevant to themselves, but they might not really have much of an idea of what the Shadow Marches are like other than "loose tribes of Humans and Orcs."
