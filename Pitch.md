@@ -17,7 +17,7 @@ This campaign will be a sandbox investigative campaign. I'm hoping to tailor the
 
 The main themes of the campaign will be undeath, political intrigue, religious conflict, and truth. You all will play as underdogs, people unwanted by any major society. Namely, undead and seekers (worshippers of the Blood of Vol). I expect your characters to be largely heroic, motivated by a strong sense of right and wrong (or at least a sense of *justice*) rather than personal gain. This campaign will be a story of your characters risking their lives to expose the truth in the face of institutions that hate them, and on behalf of a populous that may be only dubiously grateful. You will be the heroes Eberron needs, not the ones it wants.
 
-#### Eberron Overview
+### Eberron Overview
 If you don't know anything about this setting, I encourage you to glance over the player copy of the Eberronicon! Our adventure will be limited to the continent of Khorvaire. The incredibly short summary is this:
 
 - Ages ago, this guy named Galifar ir'Wynarn unified the whole continent under the Kingdom of Galifar. This was the 1st Year of the Kingdom (YK).
@@ -32,7 +32,7 @@ See the Timeline in this document for more details.
 
 Eberron is a world build around *pulp* and *noir.* I expect our campaign to vary between the two, depending on how action-y a particular investigation or area is. Eberron, or at least Khorvaire, is also quite a low-power world. Magic is utterly pervasive: maids use *prestidigitation* to help clean, chefs use it to cook, children learn *sigil* to tag buildings with temporary magical graffiti, etc. However, it is *low-level.* Any spell of ranks 2-3 is uncommon, ranks 4-5 is rare, and rank 6+ is legendary--having the "unique" tag. Instead of technological advancement, Eberron has magical advancement--railways powered by trapped lightning elementals, massive wands used as cannons, men of wood and steel animated by raw magical force, etc. 
 
-#### Religions in Eberron
+### Religions in Eberron
 Religious conflict will be a theme of the campaign, so before the other background it's necessary to explain some of the religions in play. (Take a look at the "faiths" chapter in the Eberronicon for more information). Of note is that gods themselves are not present on Eberron, even though their worshippers can cast divine magic--which is generally considered more miraculous and strange than the well-known science of arcane magic.
 
 The Sovereign Host are the most widely-recognized deities on Eberron. Eons ago, 13 champions fought against the demonic overlords ruling Eberron, succeeding at ending the age of demons and ascending to godhood. 4 have since been cast out, and the rest form the pantheon of the sovereign host. Vassals, worshippers of the sovereign host, tend to worship the entire pantheon, although clerics will sometimes focus on one god (while still giving reverence to all). Worship of the Sovereign Host is diverse, and vassals tend to be tolerant of others.
@@ -43,7 +43,7 @@ The Silver Flame arose after the Couatls--a race of winged serpents--sacrificed 
 
 The Blood of Vol are turbo-atheists (as opposed to regular atheists, which do exist on Eberron!). Followers of the Blood of Vol are called seekers of the divinity within, or just "seekers." Seekers believe that if gods exist, they are cruel. Rather, true divine power is in the blood, and the project of the seeker is to perfect that power and live their one precious life to the fullest. Seekers place heavy emphasis on community and collective struggle, as well as making the most of your life. Seekers think that once you're dead, you're gone, and so have no issue with their body being used however is practical after they are dead--they are excellent necromancers. Some champions of the Blood of Vol become undead, which outsiders sometimes misinterpret as meaning seekers worship undead--in reality, seekers view becoming undead as a great sacrifice, a process undertaken by champions that cuts them off from their own divine spark so that they may continue to teach and guide new generations. 
 
-#### Karrnath
+### Karrnath
 Most of the campaign will take place in Karrnath. Karrnath was one of the "five nations" that composed the Kingdom of Galifar before the Last War broke out. Karrnath is known for its intense martial discipline, and its use of undead soldiers during the Last War. Its monarch, King Kaius ir'Wynarn III, was one of the architects of the Treaty of Thronehold, which ended the Last War. That was four years ago, in 994 YK--994 years after the founding of the Kingdom of Galifar. Today is 998YK.
 
 King Kaius I made a deal with Seekers during the last war in exchange for undead troops, but seekers have never been a religious majority in Karrnath--vassals were and are the majority. More recently, King Kaius III and Regent Moranna have turned on the Blood of Vol. The seeker knight orders were disbanded, and King Kaius III publicly blames the Blood of Vol for the famines and plagues that crippled Karrnath's military to the point where they had to rely on undead soldiers in the first place. 
@@ -52,14 +52,14 @@ Karrnath, right now, is a powder keg. The threat and mystery of the Mourning loo
 
 Thrane, Karrnath's western neighbor, is a theocracy run by the Church of the Silver Flame, which believes that undead, by their very existence, suck the life force out of the world. This, combined with the history of bloody conflict on the Thrane-Karrnath border (Shadukar, for instance, was totally destroyed by Karrnathi forces and has yet to be reclaimed), has lead to enormous tension between the two countries. Things are complicated further by a string of terrorist attacks committed by the Order of the Emerald Claw, a terrorist organization affiliated with the Blood of Vol that claims to want to restore Karrnath to its former glory. If Karrnath doesn't demonstrate that they are trying everything in their power to stop the attacks, there's no telling what Thrane will do in response.
 
-#### Atur
+### Atur
 You all begin play in the city of Atur, in Karrnath. Atur is in a manifest zone of Mabar, the plane of negative energy, and so necromancy is much more powerful there. The vast majority of the undead that fought for Karrnath in the Last War were animated in Atur, and it's still common to see skeleton laborers on the streets. The town is lit by lamps powered by shards of bone--the same electroplasmic force that animates skeletons glows a soft green under the right conditions. Expectedly, Atur is a stronghold of the Blood of Vol, and in the center the large Crimson Monastery--a massive pyramid of red brick--is the largest place of worship dedicated to the Blood of Vol. Underneath the city are the Vaults of the Dead, where the undead soldiers of the last war lie in suspended animation, just in case.
 
 Atur is a nocturnal city. Quiet as a tomb during the day, at night the city bustles with life--it is known as a tourist location for its vivid party culture and tolerance of activities that may be unsavory elsewhere. This partying isn't just for fun--the energy of the city at night, the exuberance, the *life,* helps to counteract the deleterious effects the Mabaran manifest zone would normally have on the living denizens.
 
 Atur will be one of the few places your characters are accepted, and one of the few places where your characters are celebrated when news of their good deeds comes.
 
-#### Your Character
+### Your Character
 Your character, in keeping with our theme, should be an undead, a seeker, both, or for some other reason the sort of general outcast that would fit in with the party. No matter what class you play, consider your character's religion, their philosophy, their convictions, and their bonds to the life they live.
 
 ## Characters
